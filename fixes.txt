@@ -2,3 +2,5 @@ this is a txt file
 situated in bug-fix branch
 One more bug fixed after detecting.
 fourth bug fixed
+
+fifth bug fixed
